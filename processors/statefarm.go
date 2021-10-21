@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/seeker-insurance/seeker-scraper/models"
-	"github.com/seeker-insurance/seeker-scraper/outside"
+	"github.com/dexterorion/insurance-scraper/models"
+	"github.com/dexterorion/insurance-scraper/outside"
 	"github.com/tebeka/selenium"
 )
 

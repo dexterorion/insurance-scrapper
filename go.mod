@@ -10,7 +10,6 @@ require (
 	github.com/gocolly/colly v1.2.0
 	github.com/kennygrant/sanitize v1.2.4 // indirect
 	github.com/saintfish/chardet v0.0.0-20120816061221-3af4cd4741ca // indirect
-	github.com/seeker-insurance/seeker-model v0.0.34
 	github.com/tebeka/selenium v0.9.9
 	github.com/temoto/robotstxt v1.1.1 // indirect
 	golang.org/x/net v0.0.0-20200927032502-5d4f70055728 // indirect

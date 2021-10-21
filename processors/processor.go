@@ -1,6 +1,6 @@
 package processors
 
-import "github.com/seeker-insurance/seeker-scraper/models"
+import "github.com/dexterorion/insurance-scraper/models"
 
 // Processor represents the processor interface
 type Processor interface {

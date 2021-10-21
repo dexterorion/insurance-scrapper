@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/seeker-insurance/seeker-scraper/models"
-	"github.com/seeker-insurance/seeker-scraper/processors"
+	"github.com/dexterorion/insurance-scraper/models"
+	"github.com/dexterorion/insurance-scraper/processors"
 )
 
 // Create a new type for a list of Strings

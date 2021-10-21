@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/dexterorion/insurance-scraper/models"
 	"github.com/gocolly/colly"
-	"github.com/seeker-insurance/seeker-scraper/models"
 )
 
 // Farmers represents the Farmers structure

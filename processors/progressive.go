@@ -3,8 +3,8 @@ package processors
 import (
 	"fmt"
 
+	"github.com/dexterorion/insurance-scraper/models"
 	"github.com/gocolly/colly"
-	"github.com/seeker-insurance/seeker-scraper/models"
 )
 
 // Progressive represents the Progressive structure
